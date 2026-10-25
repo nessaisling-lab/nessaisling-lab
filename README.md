@@ -8,7 +8,7 @@ Rust-first software engineer in New York. I build software whose guarantees you 
 
 | Build | What it proves |
 |---|---|
-| **[HouseCheck](https://github.com/nessaisling-lab/housecheck)** | Rust/axum. Exports carry an append-only SHA-256 hash chain with an Ed25519-signed head. I wrote an independent verifier, found a forgery path, and closed it. 149 tests, [live](https://housecheck-wine.vercel.app). |
+| **[HouseCheck](https://github.com/nessaisling-lab/housecheck)** | Rust/axum. Exports carry an append-only SHA-256 hash chain with an Ed25519-signed head. I wrote an independent verifier, found a forgery path, and closed it. 176 tests, [live](https://housecheck-wine.vercel.app). |
 | **[Resona / Wisper](https://github.com/aislingld-pursuit/L2-Clone-Prodject)** | On-device voice-to-text in Rust and Tauri 2; the audio never leaves the machine. [Installers](https://github.com/aislingld-pursuit/L2-Clone-Prodject/releases/tag/v0.2.0-beta.29) for Windows, macOS and Linux. |
 | **[Client capstone](https://nessaisling-lab.github.io/aisling-builder-portfolio/work/gala-guest-list/)** | Backend lead and repo admin on a team of four: Postgres row-level security, hashed single-purpose tokens, 150 of 189 merged PRs. The repo is private; the case study is public. |
 | **[Nisaba Capital Charting](https://github.com/nessaisling-lab/nisaba-capital-charting)** | About 25k lines of Rust, built solo in 30 days; 132 tests, zero warnings, a Windows installer. |
